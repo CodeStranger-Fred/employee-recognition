@@ -6,7 +6,7 @@ Assumptions:
 Visibility is a core dimension of access filtering and must be enforceable at the database and application level
 Anonymous messages should not expose sender metadata even in logs or subscriptions
 Future analytics and trend analysis will need to include visibility dimensions
-
+s
 
 
 Technical Reasoning:
